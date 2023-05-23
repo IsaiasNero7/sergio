@@ -9,4 +9,6 @@ left: 35%;
 right: 35%;
 width: 180px;
 padding: 10px;
+box-shadow: 3px 5px 10px;
+border-radius: 10px;
 }
