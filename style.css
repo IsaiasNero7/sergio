@@ -1,0 +1,12 @@
+
+body{background-color: antiquewhite;
+}
+
+div{background-color: white;
+position: absolute;
+top: 50%;
+left: 35%;
+right: 35%;
+width: 180px;
+padding: 10px;
+}
